@@ -1,7 +1,8 @@
-# first_flutter
+# First Flutter App
 
 My first flutter prosjekt, tutorial from
-https://docs.flutter.dev/get-started/codelab
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0 and
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
 
 ## Getting Started
 
